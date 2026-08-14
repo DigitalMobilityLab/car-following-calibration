@@ -1,0 +1,61 @@
+CAR-FOLLOWING CALIBRATION — NON-COMMERCIAL RESEARCH LICENSE
+
+Copyright (c) Digital Mobility Lab | University of Naples Federico II
+and the original authors of the software.
+
+Permission is granted, free of charge, to use, copy, modify, and redistribute
+this software, source code, accompanying data, and documentation solely for
+non-commercial research and educational purposes, subject to the following
+conditions:
+
+1. Attribution
+   The copyright notice and this license must be retained in all copies or
+   substantial portions of the software and accompanying materials.
+
+2. Scientific credit
+   Any publication, report, presentation, thesis, technical document, or other
+   scholarly output that uses, modifies, derives from, or materially relies on
+   this repository must acknowledge the original authors and cite both of the
+   following works:
+
+   V. Punzo, Z. Zheng, M. Montanino,
+   "About calibration of car-following dynamics of automated and human-driven
+   vehicles: Methodology, guidelines and codes",
+   Transportation Research Part C: Emerging Technologies, 128, 103165, 2021.
+   https://doi.org/10.1016/j.trc.2021.103165
+
+   V. Punzo, M. Montanino,
+   "Speed or spacing? Cumulative variables, and convolution of model errors
+   and time in traffic flow models validation and calibration",
+   Transportation Research Part B: Methodological, 91, 21-33, 2016.
+   https://doi.org/10.1016/j.trb.2016.04.012
+
+3. Non-commercial use only
+   The software and accompanying materials may not be used, in whole or in
+   part, for commercial purposes or commercial advantage without prior written
+   permission from the copyright holders. Commercial use includes use in a
+   product or service offered for sale, licensing for a fee, paid consultancy
+   deliverables, or internal use primarily intended to support a commercial
+   product or service.
+
+4. Redistribution and derivative works
+   Non-commercial redistribution and derivative works are permitted provided
+   that this license, the attribution requirements, and the scientific citation
+   requirements remain in force and are included with the redistributed or
+   derivative material.
+
+5. No endorsement
+   The names of the authors, the Digital Mobility Lab, and the University of
+   Naples Federico II may not be used to endorse or promote derived products
+   or services without prior written permission.
+
+6. Disclaimer of warranty
+   THE SOFTWARE AND ACCOMPANYING MATERIALS ARE PROVIDED "AS IS", WITHOUT
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This is a source-available non-commercial license and is not an open-source
+license as defined by the Open Source Initiative.
